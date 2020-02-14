@@ -3,7 +3,6 @@
 Assessment test required by Easynvest to the QA position.
 
 
-
 ## Execute Tests
 
 Download the project or Clone this repository to your preference folder
