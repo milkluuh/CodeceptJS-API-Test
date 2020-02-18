@@ -19,3 +19,8 @@ To Run the tests use the command
 ```
 npx codeceptjs run --steps
 ```
+
+if You`re running the version from BddExample branch, use the command 
+```
+npx codeceptjs run --features
+```
